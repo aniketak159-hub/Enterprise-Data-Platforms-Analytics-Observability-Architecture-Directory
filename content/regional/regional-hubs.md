@@ -14,10 +14,10 @@ Localized enterprise landing hubs featuring regional compliance standards, in-co
 
 | Region | Hub Page | Key Focus |
 |--------|----------|-----------|
-| 🇮🇳 [India](india/index.md) | [Index](india/index.md) | MariaDB, ClickHouse, Redis — Metro hubs (Bengaluru, Mumbai, Delhi NCR, Hyderabad, Pune, Chennai, Kolkata) |
-| 🇦🇪 [UAE](uae/index.md) | [Index](uae/index.md) | Sovereign AI, PostgreSQL, Redis, Elastic, OpenShift, DevSecOps — Dubai, Abu Dhabi |
-| 🇸🇦 [Saudi Arabia (KSA)](ksa/index.md) | [Index](ksa/index.md) | Vision 2030, NCA ECC, SAMA, SDAIA — Sovereign AI, MariaDB, PostgreSQL, MongoDB, Elastic, HashiCorp |
-| 🌍 [MEA Regional](mea/index.md) | [Index](mea/index.md) | Pan-GCC + Africa coverage — 10 countries, cross-border compliance |
+| 🇮🇳 [India](india/india-hub.md) | [India Hub](india/india-hub.md) | MariaDB, ClickHouse, Redis — Metro hubs (Bengaluru, Mumbai, Delhi NCR, Hyderabad, Pune, Chennai, Kolkata) |
+| 🇦🇪 [UAE](uae/uae-hub.md) | [UAE Hub](uae/uae-hub.md) | Sovereign AI, PostgreSQL, Redis, Elastic, OpenShift, DevSecOps — Dubai, Abu Dhabi |
+| 🇸🇦 [Saudi Arabia (KSA)](ksa/ksa-hub.md) | [KSA Hub](ksa/ksa-hub.md) | Vision 2030, NCA ECC, SAMA, SDAIA — Sovereign AI, MariaDB, PostgreSQL, MongoDB, Elastic, HashiCorp |
+| 🌍 [MEA Regional](mea/mea-hub.md) | [MEA Hub](mea/mea-hub.md) | Pan-GCC + Africa coverage — 10 countries, cross-border compliance |
 
 ---
 
@@ -52,4 +52,4 @@ Localized enterprise landing hubs featuring regional compliance standards, in-co
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

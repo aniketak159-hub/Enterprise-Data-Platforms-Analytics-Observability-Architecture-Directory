@@ -46,4 +46,4 @@ HashiCorp Enterprise provides Vault for zero-trust secrets management, Terraform
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

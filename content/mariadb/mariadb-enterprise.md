@@ -59,9 +59,9 @@ MariaDB Enterprise provides ColumnStore OLAP, MaxScale smart proxy, Galera multi
 
 ## Related Migration Pathways
 
-- [Oracle / MS SQL Server → MariaDB Enterprise](migration/index.md#oracle--ms-sql-server--mariadb-enterprise)
-- [MySQL 8.0 EOL → MariaDB Enterprise](migration/index.md#mysql-80-eol--mariadb-enterprise)
+- [Oracle / MS SQL Server → MariaDB Enterprise](migration/migration-pathways.md#oracle--ms-sql-server--mariadb-enterprise)
+- [MySQL 8.0 EOL → MariaDB Enterprise](migration/migration-pathways.md#mysql-80-eol--mariadb-enterprise)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

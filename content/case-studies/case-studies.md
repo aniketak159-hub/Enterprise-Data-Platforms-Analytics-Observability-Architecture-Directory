@@ -87,4 +87,4 @@ Proven architectural implementations across government agencies, financial insti
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

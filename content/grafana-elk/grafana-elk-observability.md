@@ -66,8 +66,8 @@ Enterprise observability stack combining Elastic Stack (Elasticsearch, Logstash,
 
 ## Related Migration Pathway
 
-[Legacy SIEM/APM → Grafana Enterprise & Elastic](migration/index.md#legacy-siem-apm--grafana-enterprise--elastic)
+[Legacy SIEM/APM → Grafana Enterprise & Elastic](migration/migration-pathways.md#legacy-siem-apm--grafana-enterprise--elastic)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

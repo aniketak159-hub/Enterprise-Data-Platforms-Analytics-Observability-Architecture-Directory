@@ -57,8 +57,8 @@ Redis Enterprise provides Active-Active geo-distribution (CRDTs), auto-tiering (
 
 ## Related Migration Pathway
 
-[Legacy Cache Instances → Redis Enterprise](migration/index.md#legacy-cache-instances--redis-enterprise)
+[Legacy Cache Instances → Redis Enterprise](migration/migration-pathways.md#legacy-cache-instances--redis-enterprise)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

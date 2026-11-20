@@ -49,4 +49,4 @@ Red Hat OpenShift provides enterprise Kubernetes platform with Ansible Automatio
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

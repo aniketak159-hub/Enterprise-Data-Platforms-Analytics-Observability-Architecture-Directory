@@ -61,4 +61,4 @@ Enterprise cloud & database infrastructure hub across Dubai, Abu Dhabi, and UAE 
 
 ---
 
-*Part of [Regional Hubs](../regional/index.md) | [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of [Regional Hubs](../regional/regional-hubs.md) | [Enterprise Data Platforms Architecture Directory](../master-index.md)*

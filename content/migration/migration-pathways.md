@@ -153,4 +153,4 @@ Structured phase-gate framework for modernizing monolithic legacy infrastructure
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

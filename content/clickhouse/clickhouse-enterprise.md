@@ -44,8 +44,8 @@ ClickHouse Enterprise provides real-time OLAP analytics, high-throughput log agg
 
 ## Related Migration Pathway
 
-[Relational Analytical Warehouses → ClickHouse Enterprise](migration/index.md#relational-analytical-warehouses--clickhouse-enterprise)
+[Relational Analytical Warehouses → ClickHouse Enterprise](migration/migration-pathways.md#relational-analytical-warehouses--clickhouse-enterprise)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

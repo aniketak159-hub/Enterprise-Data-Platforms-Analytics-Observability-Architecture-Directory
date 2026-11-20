@@ -25,15 +25,15 @@
 
 | **I want to...** | **Start Here** |
 |:---|:---|
-| 🧠 **Reduce LLM costs 90%** | [Redis + LangChain Caching](content/redis/index.md#technical-articles--insights) |
-| 🔄 **Migrate Oracle → MariaDB** | [MariaDB Migration Pathway](content/migration/index.md#1-oracle--ms-sql-server--mariadb-enterprise) |
-| 🐘 **Migrate Oracle → PostgreSQL** | [EDB Migration Guide](content/postgresql/index.md#technical-articles--insights) |
-| 🇸🇦 **Sovereign AI in KSA/UAE** | [KSA Hub](content/regional/ksa/index.md) • [UAE Hub](content/regional/uae/index.md) |
-| 📊 **Build SIEM/Observability** | [Elastic + Grafana LGTM](content/grafana-elk/index.md) |
-| 🔐 **Zero-Trust Secrets** | [HashiCorp Vault](content/hashicorp/index.md) |
-| ☸️ **Hybrid Cloud K8s** | [Red Hat OpenShift](content/openshift/index.md) |
-| ⚡ **Real-Time Analytics** | [ClickHouse](content/clickhouse/index.md) |
-| 📋 **Compliance Review** | [Compliance Matrix](content/compliance/index.md#cross-regional-compliance-matrix) |
+| 🧠 **Reduce LLM costs 90%** | [Redis + LangChain Caching](content/redis/redis-enterprise.md#technical-articles--insights) |
+| 🔄 **Migrate Oracle → MariaDB** | [MariaDB Migration Pathway](content/migration/migration-pathways.md#1-oracle--ms-sql-server--mariadb-enterprise) |
+| 🐘 **Migrate Oracle → PostgreSQL** | [EDB Migration Guide](content/postgresql/enterprise-postgresql.md#technical-articles--insights) |
+| 🇸🇦 **Sovereign AI in KSA/UAE** | [KSA Hub](content/regional/ksa/ksa-hub.md) • [UAE Hub](content/regional/uae/uae-hub.md) |
+| 📊 **Build SIEM/Observability** | [Elastic + Grafana LGTM](content/grafana-elk/grafana-elk-observability.md) |
+| 🔐 **Zero-Trust Secrets** | [HashiCorp Vault](content/hashicorp/hashicorp-enterprise.md) |
+| ☸️ **Hybrid Cloud K8s** | [Red Hat OpenShift](content/openshift/openshift-enterprise.md) |
+| ⚡ **Real-Time Analytics** | [ClickHouse](content/clickhouse/clickhouse-enterprise.md) |
+| 📋 **Compliance Review** | [Compliance Matrix](content/compliance/compliance-sovereignty.md#cross-regional-compliance-matrix) |
 
 </div>
 
@@ -45,15 +45,15 @@
 
 | Platform | Primary Use Case | Articles | Case Studies | Regional Hubs | Get Started |
 |:---|:---|:---:|:---:|:---:|:---|
-| [**MariaDB Enterprise**](content/mariadb/index.md) | HTAP, Oracle/MySQL Migration, ColumnStore, MaxScale | 12 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/mariadb/index.md) |
-| [**Redis Enterprise**](content/redis/index.md) | Caching, Vector Search, GenAI, Active-Active HA | 10 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/redis/index.md) |
-| [**Enterprise PostgreSQL (EDB)**](content/postgresql/index.md) | Oracle Migration, PL/SQL Compat, Compliance HA | 6 | — | 🇸🇦 🇦🇪 | [Explore →](content/postgresql/index.md) |
-| [**MongoDB & NoSQL**](content/mongodb/index.md) | Document, Vector Search, Sovereign AI, Sharding | 8 | 2 | 🇸🇦 🇦🇪 | [Explore →](content/mongodb/index.md) |
-| [**ClickHouse Enterprise**](content/clickhouse/index.md) | Real-time OLAP, Log Analytics, Columnar | 4 | — | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/clickhouse/index.md) |
-| [**Grafana LGTM / Elastic**](content/grafana-elk/index.md) | SIEM, Observability, Log Analytics | 4 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/grafana-elk/index.md) |
-| [**HashiCorp Enterprise**](content/hashicorp/index.md) | Vault, Terraform, Consul, Zero-Trust | 1 | — | 🇸🇦 🇮🇳 | [Explore →](content/hashicorp/index.md) |
-| [**Red Hat OpenShift**](content/openshift/index.md) | Enterprise K8s, Hybrid Cloud, Ansible | 2 | — | 🇦🇪 🇸🇦 🇮🇳 | [Explore →](content/openshift/index.md) |
-| [**FalkorDB Enterprise**](content/regional/ksa/index.md#falkordb-graphrag--knowledge-graphs) | GraphRAG, Knowledge Graphs, Ultra-Low Latency | — | — | 🇸🇦 🇦🇪 | [Explore →](content/regional/ksa/index.md#falkordb-graphrag--knowledge-graphs) |
+| [**MariaDB Enterprise**](content/mariadb/mariadb-enterprise.md) | HTAP, Oracle/MySQL Migration, ColumnStore, MaxScale | 12 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/mariadb/mariadb-enterprise.md) |
+| [**Redis Enterprise**](content/redis/redis-enterprise.md) | Caching, Vector Search, GenAI, Active-Active HA | 10 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/redis/redis-enterprise.md) |
+| [**Enterprise PostgreSQL (EDB)**](content/postgresql/enterprise-postgresql.md) | Oracle Migration, PL/SQL Compat, Compliance HA | 6 | — | 🇸🇦 🇦🇪 | [Explore →](content/postgresql/enterprise-postgresql.md) |
+| [**MongoDB & NoSQL**](content/mongodb/mongodb-enterprise.md) | Document, Vector Search, Sovereign AI, Sharding | 8 | 2 | 🇸🇦 🇦🇪 | [Explore →](content/mongodb/mongodb-enterprise.md) |
+| [**ClickHouse Enterprise**](content/clickhouse/clickhouse-enterprise.md) | Real-time OLAP, Log Analytics, Columnar | 4 | — | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/clickhouse/clickhouse-enterprise.md) |
+| [**Grafana LGTM / Elastic**](content/grafana-elk/grafana-elk-observability.md) | SIEM, Observability, Log Analytics | 4 | 1 | 🇮🇳 🇸🇦 🇦🇪 | [Explore →](content/grafana-elk/grafana-elk-observability.md) |
+| [**HashiCorp Enterprise**](content/hashicorp/hashicorp-enterprise.md) | Vault, Terraform, Consul, Zero-Trust | 1 | — | 🇸🇦 🇮🇳 | [Explore →](content/hashicorp/hashicorp-enterprise.md) |
+| [**Red Hat OpenShift**](content/openshift/openshift-enterprise.md) | Enterprise K8s, Hybrid Cloud, Ansible | 2 | — | 🇦🇪 🇸🇦 🇮🇳 | [Explore →](content/openshift/openshift-enterprise.md) |
+| [**FalkorDB Enterprise**](content/regional/ksa/ksa-hub.md#falkordb-graphrag--knowledge-graphs) | GraphRAG, Knowledge Graphs, Ultra-Low Latency | — | — | 🇸🇦 🇦🇪 | [Explore →](content/regional/ksa/ksa-hub.md#falkordb-graphrag--knowledge-graphs) |
 
 </div>
 
@@ -65,10 +65,10 @@
 
 | Region | Hub | Technologies | Compliance Frameworks | Articles |
 |:---|:---|:---|:---|:---:|
-| 🇮🇳 [**India**](content/regional/india/index.md) | [MariaDB](https://dataxsolution.net/india/technologies/mariadb/) • [ClickHouse](https://dataxsolution.net/technologies-india/clickhouse-consulting-services-india/) • [Redis](https://dataxsolution.net/technologies-india/redis-consulting-services-india/) | RBI, SEBI, DPDPA, CERT-In, MeitY | 12 |
-| 🇸🇦 [**Saudi Arabia (KSA)**](content/regional/ksa/index.md) | MariaDB • PostgreSQL • MongoDB • Elastic • HashiCorp • FalkorDB • OpenShift | NCA ECC, SAMA, SDAIA, PDPL, Vision 2030 | 14 |
-| 🇦🇪 [**UAE**](content/regional/uae/index.md) | PostgreSQL • Redis • Elastic • OpenShift • HashiCorp • MongoDB • FalkorDB | CBUAE, PDPL, DESC, Dubai Data Law | 11 |
-| 🌍 [**MEA Regional**](content/regional/mea/index.md) | 10 Countries • Cross-border Compliance • Sovereign Cloud | Qatar QCB, Oman CBO, Bahrain CBB, Kuwait CBK | 8 |
+| 🇮🇳 [**India**](content/regional/india/india-hub.md) | [MariaDB](https://dataxsolution.net/india/technologies/mariadb/) • [ClickHouse](https://dataxsolution.net/technologies-india/clickhouse-consulting-services-india/) • [Redis](https://dataxsolution.net/technologies-india/redis-consulting-services-india/) | RBI, SEBI, DPDPA, CERT-In, MeitY | 12 |
+| 🇸🇦 [**Saudi Arabia (KSA)**](content/regional/ksa/ksa-hub.md) | MariaDB • PostgreSQL • MongoDB • Elastic • HashiCorp • FalkorDB • OpenShift | NCA ECC, SAMA, SDAIA, PDPL, Vision 2030 | 14 |
+| 🇦🇪 [**UAE**](content/regional/uae/uae-hub.md) | PostgreSQL • Redis • Elastic • OpenShift • HashiCorp • MongoDB • FalkorDB | CBUAE, PDPL, DESC, Dubai Data Law | 11 |
+| 🌍 [**MEA Regional**](content/regional/mea/mea-hub.md) | 10 Countries • Cross-border Compliance • Sovereign Cloud | Qatar QCB, Oman CBO, Bahrain CBB, Kuwait CBK | 8 |
 
 </div>
 
@@ -83,49 +83,49 @@
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 🏗️ Core Platforms
-**[content/index.md](content/index.md)** — Master catalog of all 9 enterprise platforms with quick links, capability matrix, and regional availability.
+**[content/master-index.md](content/master-index.md)** — Master catalog of all 9 enterprise platforms with quick links, capability matrix, and regional availability.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 🌍 Regional Hubs
-**[content/regional/index.md](content/regional/index.md)** — 4 regional hubs (India, KSA, UAE, MEA) with compliance frameworks, technology coverage, and local partner ecosystems.
+**[content/regional/regional-hubs.md](content/regional/regional-hubs.md)** — 4 regional hubs (India, KSA, UAE, MEA) with compliance frameworks, technology coverage, and local partner ecosystems.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 🔄 Migration Pathways
-**[content/migration/index.md](content/migration/index.md)** — 6 zero-downtime migration patterns with phase-gate frameworks, CDC tooling, and SLA guarantees.
+**[content/migration/migration-pathways.md](content/migration/migration-pathways.md)** — 6 zero-downtime migration patterns with phase-gate frameworks, CDC tooling, and SLA guarantees.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 🛡️ Compliance & Sovereignty
-**[content/compliance/index.md](content/compliance/index.md)** — 12 regulatory frameworks across India/GCC/MEA with platform alignment matrix and audit architectures.
+**[content/compliance/compliance-sovereignty.md](content/compliance/compliance-sovereignty.md)** — 12 regulatory frameworks across India/GCC/MEA with platform alignment matrix and audit architectures.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 📖 Case Studies
-**[content/case-studies/index.md](content/case-studies/index.md)** — 5 production proof points: MariaDB, Redis, MongoDB, Elastic, Government Border Control (Cassandra).
+**[content/case-studies/case-studies.md](content/case-studies/case-studies.md)** — 5 production proof points: MariaDB, Redis, MongoDB, Elastic, Government Border Control (Cassandra).
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 🛠️ Enterprise Services
-**[content/services/index.md](content/services/index.md)** — 4 service lines: Architecture Consulting, Licensing & Procurement, Zero-Downtime Migration, 24/7 Managed DBA.
+**[content/services/enterprise-services.md](content/services/enterprise-services.md)** — 4 service lines: Architecture Consulting, Licensing & Procurement, Zero-Downtime Migration, 24/7 Managed DBA.
 
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
 
 ### 📊 Strategy & Cloud
-**[content/general/index.md](content/general/index.md)** — 12 articles on enterprise modernization, vendor selection, TCO optimization, cloud-native architecture.
+**[content/general/strategy-cloud.md](content/general/strategy-cloud.md)** — 12 articles on enterprise modernization, vendor selection, TCO optimization, cloud-native architecture.
 
 </div>
 
@@ -141,37 +141,37 @@
 ### Core Platform Hubs
 | File | Description | Articles |
 |------|-------------|:---:|
-| [`content/redis/index.md`](content/redis/index.md) | Redis Enterprise: Caching, GenAI, Vector Search, Active-Active HA | 10 |
-| [`content/mariadb/index.md`](content/mariadb/index.md) | MariaDB Enterprise: HTAP, ColumnStore, MaxScale, Oracle Migration | 12 |
-| [`content/postgresql/index.md`](content/postgresql/index.md) | EDB PostgreSQL: Oracle Migration, PL/SQL Compat, Compliance | 6 |
-| [`content/mongodb/index.md`](content/mongodb/index.md) | MongoDB/NoSQL: Vector Search, Sovereign AI, Sharding, Cassandra | 8 |
-| [`content/clickhouse/index.md`](content/clickhouse/index.md) | ClickHouse: Real-time OLAP, Log Analytics, Columnar | 4 |
-| [`content/grafana-elk/index.md`](content/grafana-elk/index.md) | Grafana LGTM + Elastic: SIEM, Observability, Log Analytics | 4 |
-| [`content/hashicorp/index.md`](content/hashicorp/index.md) | HashiCorp: Vault, Terraform, Consul, Boundary, Zero-Trust | 1 |
-| [`content/openshift/index.md`](content/openshift/index.md) | OpenShift: Enterprise K8s, Hybrid Cloud, Ansible, RHEL | 2 |
+| [`content/redis/redis-enterprise.md`](content/redis/redis-enterprise.md) | Redis Enterprise: Caching, GenAI, Vector Search, Active-Active HA | 10 |
+| [`content/mariadb/mariadb-enterprise.md`](content/mariadb/mariadb-enterprise.md) | MariaDB Enterprise: HTAP, ColumnStore, MaxScale, Oracle Migration | 12 |
+| [`content/postgresql/enterprise-postgresql.md`](content/postgresql/enterprise-postgresql.md) | EDB PostgreSQL: Oracle Migration, PL/SQL Compat, Compliance | 6 |
+| [`content/mongodb/mongodb-enterprise.md`](content/mongodb/mongodb-enterprise.md) | MongoDB/NoSQL: Vector Search, Sovereign AI, Sharding, Cassandra | 8 |
+| [`content/clickhouse/clickhouse-enterprise.md`](content/clickhouse/clickhouse-enterprise.md) | ClickHouse: Real-time OLAP, Log Analytics, Columnar | 4 |
+| [`content/grafana-elk/grafana-elk-observability.md`](content/grafana-elk/grafana-elk-observability.md) | Grafana LGTM + Elastic: SIEM, Observability, Log Analytics | 4 |
+| [`content/hashicorp/hashicorp-enterprise.md`](content/hashicorp/hashicorp-enterprise.md) | HashiCorp: Vault, Terraform, Consul, Boundary, Zero-Trust | 1 |
+| [`content/openshift/openshift-enterprise.md`](content/openshift/openshift-enterprise.md) | OpenShift: Enterprise K8s, Hybrid Cloud, Ansible, RHEL | 2 |
 
 ### Regional Hubs
 | File | Description | Articles |
 |------|-------------|:---:|
-| [`content/regional/index.md`](content/regional/index.md) | Regional Hubs Overview: India, UAE, KSA, MEA | — |
-| [`content/regional/india/index.md`](content/regional/india/index.md) | India Hub: 3 Tech Hubs, 5 Compliance Frameworks, Metro Cities | 12 |
-| [`content/regional/uae/index.md`](content/regional/uae/index.md) | UAE Hub: 7 Platforms, 5 Compliance Frameworks, Dubai/Abu Dhabi | 11 |
-| [`content/regional/ksa/index.md`](content/regional/ksa/index.md) | KSA Hub: 8 Platforms, Vision 2030, NCA ECC, SDAIA, SAMA | 14 |
-| [`content/regional/mea/index.md`](content/regional/mea/index.md) | MEA Hub: 10 Countries, Cross-Regional Themes, Pan-GCC | 8 |
+| [`content/regional/regional-hubs.md`](content/regional/regional-hubs.md) | Regional Hubs Overview: India, UAE, KSA, MEA | — |
+| [`content/regional/india/india-hub.md`](content/regional/india/india-hub.md) | India Hub: 3 Tech Hubs, 5 Compliance Frameworks, Metro Cities | 12 |
+| [`content/regional/uae/uae-hub.md`](content/regional/uae/uae-hub.md) | UAE Hub: 7 Platforms, 5 Compliance Frameworks, Dubai/Abu Dhabi | 11 |
+| [`content/regional/ksa/ksa-hub.md`](content/regional/ksa/ksa-hub.md) | KSA Hub: 8 Platforms, Vision 2030, NCA ECC, SDAIA, SAMA | 14 |
+| [`content/regional/mea/mea-hub.md`](content/regional/mea/mea-hub.md) | MEA Hub: 10 Countries, Cross-Regional Themes, Pan-GCC | 8 |
 
 ### Cross-Cutting
 | File | Description | Content |
 |------|-------------|---------|
-| [`content/general/index.md`](content/general/index.md) | Strategy & Cloud: Modernization, Partner Selection, TCO | 12 articles |
-| [`content/services/index.md`](content/services/index.md) | Services: Consulting, Licensing, Migration, Managed Services | 4 service lines |
-| [`content/migration/index.md`](content/migration/index.md) | Migration: 6 Pathways, Phase-Gate Framework, Zero-Downtime | 6 pathways |
-| [`content/compliance/index.md`](content/compliance/index.md) | Compliance: 12 Frameworks, Platform Matrix, Audit Patterns | 12 frameworks |
-| [`content/case-studies/index.md`](content/case-studies/index.md) | Case Studies: 5 Production Proof Points | 5 case studies |
+| [`content/general/strategy-cloud.md`](content/general/strategy-cloud.md) | Strategy & Cloud: Modernization, Partner Selection, TCO | 12 articles |
+| [`content/services/enterprise-services.md`](content/services/enterprise-services.md) | Services: Consulting, Licensing, Migration, Managed Services | 4 service lines |
+| [`content/migration/migration-pathways.md`](content/migration/migration-pathways.md) | Migration: 6 Pathways, Phase-Gate Framework, Zero-Downtime | 6 pathways |
+| [`content/compliance/compliance-sovereignty.md`](content/compliance/compliance-sovereignty.md) | Compliance: 12 Frameworks, Platform Matrix, Audit Patterns | 12 frameworks |
+| [`content/case-studies/case-studies.md`](content/case-studies/case-studies.md) | Case Studies: 5 Production Proof Points | 5 case studies |
 
 ### Master Index
 | File | Description |
 |------|-------------|
-| [`content/index.md`](content/index.md) | **Master Navigation** — Table of contents, quick links, platform table, compliance matrix |
+| [`content/master-index.md`](content/master-index.md) | **Master Navigation** — Table of contents, quick links, platform table, compliance matrix |
 | [`content-categorization.md`](content-categorization.md) | **Analysis** — Original 57-URL categorization with statistics |
 
 </details>
@@ -197,7 +197,7 @@
 
 </div>
 
-> 📋 **Full compliance matrix** with implementation patterns, audit architectures, and certification support: [`content/compliance/index.md`](content/compliance/index.md)
+> 📋 **Full compliance matrix** with implementation patterns, audit architectures, and certification support: [`content/compliance/compliance-sovereignty.md`](content/compliance/compliance-sovereignty.md)
 
 ---
 
@@ -216,7 +216,7 @@
 
 </div>
 
-> 📖 **Complete methodology, phase-gate diagrams, and SLA guarantees:** [`content/migration/index.md`](content/migration/index.md)
+> 📖 **Complete methodology, phase-gate diagrams, and SLA guarantees:** [`content/migration/migration-pathways.md`](content/migration/migration-pathways.md)
 
 ---
 
@@ -234,7 +234,7 @@
 
 </div>
 
-> 📊 **Full details, outcomes, and architecture diagrams:** [`content/case-studies/index.md`](content/case-studies/index.md)
+> 📊 **Full details, outcomes, and architecture diagrams:** [`content/case-studies/case-studies.md`](content/case-studies/case-studies.md)
 
 ---
 

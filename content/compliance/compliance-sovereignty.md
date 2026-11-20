@@ -122,4 +122,4 @@ Application → Structured Logs → Fluent Bit/Beats
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

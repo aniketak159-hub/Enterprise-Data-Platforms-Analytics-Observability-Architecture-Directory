@@ -57,8 +57,8 @@ Enterprise NoSQL platforms for sovereign AI applications, vector search, horizon
 
 ## Related Migration Pathway
 
-[Self-Managed NoSQL → MongoDB Enterprise / Cassandra](migration/index.md#self-managed-nosql--mongodb-enterprise)
+[Self-Managed NoSQL → MongoDB Enterprise / Cassandra](migration/migration-pathways.md#self-managed-nosql--mongodb-enterprise)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*

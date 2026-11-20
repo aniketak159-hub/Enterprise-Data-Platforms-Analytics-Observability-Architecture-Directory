@@ -45,8 +45,8 @@ EnterpriseDB PostgreSQL provides Oracle PL/SQL compatibility, Patroni HA topolog
 
 ## Related Migration Pathway
 
-[Oracle / MS SQL Server → Enterprise PostgreSQL](migration/index.md#oracle--ms-sql-server--enterprise-postgresql)
+[Oracle / MS SQL Server → Enterprise PostgreSQL](migration/migration-pathways.md#oracle--ms-sql-server--enterprise-postgresql)
 
 ---
 
-*Part of the [Enterprise Data Platforms Architecture Directory](../index.md)*
+*Part of the [Enterprise Data Platforms Architecture Directory](../master-index.md)*
